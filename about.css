@@ -23,7 +23,7 @@ border: 1px solid Black;
 }
 
 #header #logo a img{
-width=400px;
+width:220px;
 margin-left: -390px;
 }
 
@@ -148,7 +148,7 @@ background-color:#778899;
 font-size: 14px;
 padding: 2px;
 border-radius: 10px;
-font-family: ;
+font-family: oswald;
 color: black;	
 border: 2px solid black;
 }
@@ -182,7 +182,7 @@ background-color:#778899;
 font-size: 18px;
 padding: 2px;
 border-radius: 10px;
-font-family: ;
+font-family: oswald;
 color: black;	
 text-align:justify;
 text-indent:50px;
@@ -202,7 +202,7 @@ background-color:#778899;
 font-size: 18px;
 padding: 2px;
 border-radius: 10px;
-font-family: ;
+font-family: oswald;
 color: black;	
 text-align:justify;
 text-indent:50px;
@@ -222,7 +222,7 @@ background-color:#778899;
 font-size: 18px;
 padding: 2px;
 border-radius: 10px;
-font-family: ;
+font-family: oswald;
 color: black;	
 text-align:justify;
 text-indent:50px;
